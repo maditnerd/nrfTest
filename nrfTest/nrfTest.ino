@@ -13,7 +13,7 @@ void setup()
 {
   Serial.begin(115200);
   printf_begin();
-  Serial.println("TEST");
+  // Serial.println("TEST");
   radio.begin();
   radio.printDetails();
 }

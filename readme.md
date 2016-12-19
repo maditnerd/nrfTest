@@ -1,3 +1,9 @@
+# Components
+* 1 Arduino nano : 2.50€	   
+* 1 nrf24l01+ (radio module) : 1€	   
+* 2 Tactiles switchs : 2€   
+Total : 5.50€   
+
 # Wiring
 **nrf modules use 3.3V not 5V**
 

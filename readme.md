@@ -9,8 +9,6 @@ Total : 5.50€
 
 ![nrf_pinout](https://github.com/pigetArduino/milightONOFF/raw/master/doc/nrf_pinout.png)
 
-![touchsensor](https://github.com/pigetArduino/milightONOFF/raw/master/doc/touchsensor.png)
-
 ```
 NRF
 D9	: orange
@@ -19,11 +17,6 @@ D11	: blue
 D12	: purple
 D13	: green
 3.3V: red
-
-SWITCHS
-D4	OFF SIG
-D5	ON SIG
-5V: VCC
 ```
 
 ## Check radio module
